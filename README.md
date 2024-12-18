@@ -20,7 +20,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![Screenshot 2024-12-18 160405](https://github.com/user-attachments/assets/6d8b5724-007b-473b-a25b-4f93e72d311c)
 
 ## Program
-![Screenshot 2024-12-18 160430](https://github.com/user-attachments/assets/25ff2c82-6c9b-41c4-984c-fb43c0f76a28)
+![multiple server](https://github.com/user-attachments/assets/7c47a4c2-0333-428b-9395-000e9a5813b0)
 
 ## Output :
 ![Screenshot 2024-12-18 160518](https://github.com/user-attachments/assets/b21a56a9-1873-4a98-bb61-f22534b991be)
